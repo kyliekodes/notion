@@ -54,7 +54,7 @@ h1 {
 
 .clock {
     display: inline;
-    font-family: 'Times New Roman', bold;
+    font-family: 'Bebas Neue', cursive;
     font-size: 2em;
    
 }
